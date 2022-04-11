@@ -4,5 +4,4 @@ This repository include:
 - Python Basics
 - Object Oriented Programming
 - Numpy
-
-**This repository is updated daily.**
+- Pandas
